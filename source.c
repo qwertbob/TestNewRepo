@@ -1,3 +1,5 @@
+#include "header.h"
+
 int main()
 {
 	printf("Add some changes\n");

@@ -1,4 +1,7 @@
-void main()
+int main()
 {
-    printf("hello world!");
+	printf("Add some changes\n");
+    printf("hello world!\n");
+	
+	return 0;
 }
